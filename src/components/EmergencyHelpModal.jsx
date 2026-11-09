@@ -74,3 +74,4 @@ export const EmergencyHelpModal = ({ isOpen, onClose }) => {
     </div>
   );
 };
+

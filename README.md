@@ -108,3 +108,4 @@ Includes `.github/workflows/deploy.yml` automated GitHub Actions workflow:
 
 ## 📄 License
 MIT License. Built for inclusive education and accessible campuses everywhere.
+

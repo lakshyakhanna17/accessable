@@ -151,3 +151,4 @@ export const FacilityDetailModal = ({ facility, onClose, onRouteToFacility }) =>
     </div>
   );
 };
+

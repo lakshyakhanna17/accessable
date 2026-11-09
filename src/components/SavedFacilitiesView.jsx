@@ -117,3 +117,4 @@ export const SavedFacilitiesView = ({ onSelectFacility, onRouteToFacility }) => 
     </div>
   );
 };
+

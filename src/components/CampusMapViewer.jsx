@@ -588,3 +588,4 @@ export const CampusMapViewer = ({ onSelectFacility, onSelectBuilding, onOpenRout
     </div>
   );
 };
+
