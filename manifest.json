@@ -1,0 +1,16 @@
+{
+  "short_name": "AccessAble",
+  "name": "AccessAble - Campus Mobility & Accessibility Navigator",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%232563eb' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='12' cy='4' r='2'/><path d='m9.5 8 1 7h4l1-7'/><path d='M6 14h12'/><circle cx='8' cy='18' r='2'/><circle cx='16' cy='18' r='2'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "portrait"
+}
